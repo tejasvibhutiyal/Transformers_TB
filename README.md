@@ -7,4 +7,4 @@ Developed a Transformer model from scratch using PyTorch. Following architecture
 
 # Section 2: Model Building for Reversing List Of Integers
 ## To reverse the list of integers following part of structure of transformers is used for reversing the list of integers.
-![image.png](attachment:image.png)
+![Alt text](image.png)
